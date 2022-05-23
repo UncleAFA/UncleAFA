@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**UncleAFA/UncleAFA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Power Automate](https://flow.microsoft.com)
 
-Here are some ideas to get you started:
+| Syntax     | Description|
+| -----------| -----------|
+| Header     | Title      |
+| Paragraph  | Text       |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```C#
+{
+  Console.WriteLine("Hi");
+}
+```
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
