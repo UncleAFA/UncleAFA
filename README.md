@@ -7,7 +7,7 @@
 | Header     | Title      |
 | Paragraph  | Text       |
 
-```C#
+```C++
 {
   Console.WriteLine("Hi");
 }
